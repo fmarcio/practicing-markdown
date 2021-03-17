@@ -12,4 +12,4 @@ Just to practice some markdown
 
 ## Add clickable image
 
-![Most famous cat in the world](https://www.garfield.com/img/garfield.png "Garfield")
+[![Most famous cat in the world](https://www.garfield.com/img/garfield.png "Garfield")](https://www.garfield.com/)
