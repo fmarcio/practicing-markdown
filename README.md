@@ -12,4 +12,4 @@ Just to practice some markdown
 
 ## Add clickable image
 
-[![Beautiful landscape(https://bit.ly/3bWOf9H "click on the landscape to go to Google")]](https://www.google.com)
+![A very beautiful landscape(https://unsplash.com/photos/NRQV-hBF10M) "Amazing view"]
