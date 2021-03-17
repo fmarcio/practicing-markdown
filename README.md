@@ -12,4 +12,4 @@ Just to practice some markdown
 
 ## Add clickable image
 
-![A very beautiful landscape](https://en.wikipedia.org/wiki/File:Fernando_de_Noronha_-_Pernambuco_-_Brasil(5).jpg "Amazing view")
+![Most famous cat in the world](https://www.garfield.com/img/garfield.png "Garfield")
