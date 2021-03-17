@@ -6,8 +6,8 @@ Just to practice some markdown
 
 - hello
 - hello again
-  1.just practicing
-  2. that's it
+    1.just practicing
+    2. that's it
 - bye!
 
 ## Add clickable image
